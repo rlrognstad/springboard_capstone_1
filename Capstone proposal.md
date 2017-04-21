@@ -16,7 +16,7 @@ This project is interesting to state and local planners, law enforcement, and dr
 
 Additional street characteristics from [OpenStreetMaps](https://www.openstreetmap.org/about) Features include: maxspeed, width, number of lanes 
 
-Weather data from [NOAA weather stations](https://www.ncdc.noaa.gov/data-access/land-based-station-data)
+Weather data from [NOAA weather stations](https://www.ncdc.noaa.gov/data-access/land-based-station-data) or [weather underground API](https://www.wunderground.com/weather/api/)
 
 ### 4) In brief, outline your approach to solving this problem
 
