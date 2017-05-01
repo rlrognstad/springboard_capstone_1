@@ -6,3 +6,5 @@ See miniprojects and exercises [here](https://github.com/rlrognstad/springboard)
 ## Contents:
 1. [Initial project ideas](https://github.com/rlrognstad/springboard_capstone_1/blob/master/Capstone%20project%20ideas.md)
 2. [Capstone proposal](https://github.com/rlrognstad/springboard_capstone_1/blob/master/Capstone%20proposal.md)
+
+## Datasets:
