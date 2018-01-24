@@ -1,0 +1,24 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="LESS_HS_P <= 0.0816\nmse = 189.9335\nsamples = 121\nvalue = 33.2864"] ;
+1 [label="mse = 795.4262\nsamples = 10\nvalue = 57.1425"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="MEDIAN_INCOME <= 45763.5\nmse = 79.494\nsamples = 111\nvalue = 31.1372"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="mse = 48.6148\nsamples = 27\nvalue = 41.1296"] ;
+2 -> 3 ;
+4 [label="POP_MIL <= 3.0178\nmse = 47.0096\nsamples = 84\nvalue = 27.9254"] ;
+2 -> 4 ;
+5 [label="mse = 59.9588\nsamples = 28\nvalue = 32.4448"] ;
+4 -> 5 ;
+6 [label="GRAD_PROF_P <= 0.1022\nmse = 25.216\nsamples = 56\nvalue = 25.6657"] ;
+4 -> 6 ;
+7 [label="STATE_SHORT <= 22.0\nmse = 18.1954\nsamples = 30\nvalue = 28.3325"] ;
+6 -> 7 ;
+8 [label="mse = 7.4801\nsamples = 16\nvalue = 25.5033"] ;
+7 -> 8 ;
+9 [label="mse = 10.8391\nsamples = 14\nvalue = 31.5658"] ;
+7 -> 9 ;
+10 [label="mse = 15.6421\nsamples = 26\nvalue = 22.5886"] ;
+6 -> 10 ;
+}
